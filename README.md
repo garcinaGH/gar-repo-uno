@@ -1,4 +1,4 @@
-# gar-rep-1
+# gar-rep-1.2
 primer repo creado en github
 
 ## descripcion
