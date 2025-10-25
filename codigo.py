@@ -1,4 +1,5 @@
-nombre = "Soy NAGGO"
-apellido = "dalto"
+nombre = "NAGGO"
+apellido = "garcia"
+
 
 print ("Hola "+ nombre + " " + apellido)
